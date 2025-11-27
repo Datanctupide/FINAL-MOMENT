@@ -1,5 +1,7 @@
 body {
-    background-image: url(Back.png);
+    padding-top: 15px;
+    background-image: url(Cosmos.png);
+    background-size: 500px;
     text-align: center;
 }
 .d1 p{
@@ -9,6 +11,16 @@ body {
 }
 .em {
     padding: 30px;
+}
+.d2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+}
+.Sun {
+    width: 600px;
+    height: auto;
 }
 .G {
     width: 220px;

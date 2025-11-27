@@ -1,0 +1,10 @@
+body {
+    padding-top: 15px;
+    background-image: url(Cosmos.png);
+    text-align: center;
+}
+p {
+    font-size: 150px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
