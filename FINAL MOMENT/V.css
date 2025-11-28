@@ -1,11 +1,26 @@
 body {
-    padding-top: 15px;
     background-image: url(Cosmos.png);
-    text-align: center;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .V {
     width: 450px;
     height: auto;
+}
+p{
+    font-size: 35px;
+}
+header {
+    background-color: black;
+}
+svg {
+    padding-left: 760px;
+}
+.logo {
+    width: 150px;
+    height: auto;
+}
+.d {
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

@@ -1,8 +1,16 @@
+header {
+    background-color: black;
+}
 body {
-    padding-top: 15px;
     background-image: url(Cosmos.png);
+}
+.d {
+    padding-top: 15px;
     background-size: 500px;
     text-align: center;
+}
+svg {
+    padding-left: 760px;
 }
 .d1 p{
     color: white;
@@ -11,6 +19,10 @@ body {
 }
 .em {
     padding: 30px;
+}
+.logo {
+    width: 150px;
+    height: auto;
 }
 .d2 {
     display: flex;
